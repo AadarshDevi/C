@@ -1,5 +1,5 @@
 
-[⟵ Printing to Console II: Output with Variables](Printing_II.md) __________ [Table of Contents](README.mb) __________ [Next ⟶](next.md)
+[⟵ Printing to Console II](Printing_II.md) __________ [Table of Contents](README.mb) __________ [Next ⟶](next.md)
 
 # Variables II: Advanced Information
 
