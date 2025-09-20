@@ -1,3 +1,6 @@
+
+[⟵ Variables I](Variables_I.md) __________ [Table of Contents](README.mb) __________ [Next ⟶](Variables_II.md)
+
 # Printing to Console II: Output with Variables
 
 In [Printing to Console](Printing_I.md) we found a way to print to the console.<br>
