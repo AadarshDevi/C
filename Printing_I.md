@@ -1,5 +1,5 @@
 
-[⟵ Basics](Comments.md) __________ [Table of Contents](README.mb) __________ [Printing to Console ⟶](Variables_I.md)
+[⟵ Comments](Comments.md) __________ [Table of Contents](README.mb) __________ [Variables I ⟶](Variables_I.md)
 
 # Printing to Console I
 
