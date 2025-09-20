@@ -1,6 +1,6 @@
 <div style="width: 200%;">
-<!--   <a href="#toc" style="float: left;">← Table of Contents</a><br><br> -->
-  <a href="Basics.md" style="float: right;">Basics →</a>
+<!--   <a href="#toc" style="float: left;"><b><<< Table of Contents<b></a><br><br> -->
+  <a href="Basics.md" style="float: right;"></b>Basics >>></b></a>
 </div>
 
 # Table of Contents
