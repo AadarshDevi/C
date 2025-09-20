@@ -15,6 +15,10 @@ In [Variables I](Variables_I.md) we learned that variables are used to store val
 | `double` | Floating Point Number | Decimal numbers like 𝜋, they contain a decimal point. They are similar to `float` but have more precision than `float`s. The precision is 15 decimal places. Like `float`s, `doubles` can be written in scientific notation. | `1.987654218362831`, `1.45e12` | `double picometer = 0.0000000000001;`<br>`double picometer = 1.0e-12;` |
 | `char` | Character | They contains either a single letter (UPPERCASE or lowercase), a number<br> or, a symbol. When writing chars, they must be enclosed in single quotes ' '. | `'a'`, `'B'`, `'5'`, `'#'` | `char grade = 'A';`<br>`char num = '5';`<br>`char symbol = '#';` |
 
-When looking at the table we can see that there are no booleans and strings. It will come later.
+When looking at the table we can see that there are no booleans and strings. It will come later.<br>
 
 ## Identifiers
+
+When we create variables, we give it a name, same like in math. The names of the variables are used to identify it and it's use case.
+A number that has a value that relates to age would be called age. Vice versa, when the variable stores an age, we name it age so we
+can recognized it. These variable names are called **___Identifiers___**.
