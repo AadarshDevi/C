@@ -1,5 +1,8 @@
 
-\t\t\t\t\t\t\t[<b>Basics >>></b>]
+<p float="left">
+  <a href="nextpage.md" style="float: right;">Next Page →</a>
+</p>
+
 
 # Table of Contents
 
