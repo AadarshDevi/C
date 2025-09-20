@@ -3,8 +3,10 @@
 
 # Variables II: Advanced Information
 
+## Data Types
+
 In [Variables I](Variables_I.md) we learned that variables are used to store values. Now
- we are going to go indepth in this topic. In C, there are only 3 types of values.
+ we are going to go indepth in this topic. The 4 datatypes shown below are called **Primitive Data Types**.
 
 | Data Type | Data Type Name | Explanation | Value | Example |
 | --------- | -------------- | ----------- | ----- | ------- |
@@ -15,4 +17,4 @@ In [Variables I](Variables_I.md) we learned that variables are used to store val
 
 When looking at the table we can see that there are no booleans and strings. It will come later.
 
-
+## Identifiers
