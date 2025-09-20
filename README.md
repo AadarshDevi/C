@@ -1,10 +1,7 @@
 <div style="width: 200%;">
-  <a href="#toc" style="float: left;">← Table of Contents</a><br><br>
-  <a href="next.md" style="float: right;">Next Page →</a>
+<!--   <a href="#toc" style="float: left;">← Table of Contents</a><br><br> -->
+  <a href="Basics.md" style="float: right;">Basics →</a>
 </div>
-
-
-
 
 # Table of Contents
 
