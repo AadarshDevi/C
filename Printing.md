@@ -1,1 +1,1 @@
-### [Prev Page →](prevpage.md) . . . . . . . . . . . . . . . . . . . . . . . . [Next Page →](nextpage.md) . . . . . . . . . . . . . . . . . . . . . . . . . [Next Page →](nextpage.md)
+### [← Previous Page](previouspage.md) . . . . . . . . . . . . . . . . . . . . . . . . [Next Page →](nextpage.md) . . . . . . . . . . . . . . . . . . . . . . . . . [Next Page →](nextpage.md)
