@@ -9,7 +9,7 @@ In [Variables I](Variables_I.md) we learned that variables are used to store val
 | Data Type | Data Type Name | Explanation | Value | Example |
 | --------- | -------------- | ----------- | ----- | ------- |
 | `int` | Integer |Integer numbers, numbers without the <br>decimal point. | `23, 47, 59` | `int age = 20; // age` |
-| `float` | Floating Point Number | Decimal numbers like 𝜋, they contain a decimal point. | `12.23, 3.1415, 0.005` | `float height = 165; // cm` |
-| `char` | Character | They contains either a single letter (UPPERCASE or lowercase), a number or, a symbol | `'a', 'B', '5', '#'` | `float height = 165; // cm` |
+| `float` | Floating Point Number | Decimal numbers like 𝜋,<br> they contain a decimal point. | `12.23, 3.1415, 0.005` | `float height = 165; // cm` |
+| `char` | Character | They contains either a single letter <br>(UPPERCASE or lowercase), a number or, a symbol | `'a', 'B', '5', '#'` | `float height = 165; // cm` |
 
 
