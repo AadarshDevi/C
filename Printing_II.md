@@ -15,7 +15,8 @@ Below are some variables and their Format Specifiers.
 | Data Type | Format Specifiers |
 | --------- | ----------------- |
 | `int` | `printf("number: %d", num);` |
-| `float` | `printf("number: %f", pi);` |
+| `float` | `printf("precise number: %f", pi);` |
+| `double` | `printf("really precise number: %lf", pi);` |
 | `char` | `printf("letter: %c", letter);` |
 
 
