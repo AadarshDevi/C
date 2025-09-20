@@ -16,7 +16,7 @@ This `#include <stdio.h>` is used for printing values to the console and also ge
 The `int main()` is the starting point for the C program. When a C program is converted into an executable,
 it will first check for this. Without this, the exe file cannot fun.<br>
 
-# Printing to Console
+# Printing to Console I
 
 To print anything in C, we use the same line of code: `printf("text")`. below we are printing "Hello World, I am coding in C!".
 
@@ -41,3 +41,29 @@ printf("Hello World, I am coding in C!");
       comment
   */
 ```
+
+# Variables I
+
+<p>
+  When we create our program, we have values that need to be stored but also change sometimes or constantly.
+  These values are stored in containers called variables. so when we have to store a value like age, we can
+  store it in a variable.
+  - Variables in C work the same way variables in math work.
+</p>
+
+<p>There are many times of values and they are listed below:</p>
+
+```
+int number = 215;
+float num2 = 107.75;
+char let = 'A';
+char let2 = 'D';
+```
+
+Here the values represent different types of variables. These types are called Data Types.
+
+In `int number = 215;`:<br>
+1. `int`: datatype of the value (learn in later)
+2. `number`: the name of the variable 
+3. `=`: the assignment operator (learn in later)
+4. `215`: the value being assigned to the variable
