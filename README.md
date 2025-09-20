@@ -1,5 +1,5 @@
 
-[Table of Contents](table_of_contents.md) __________ [Basics →](Basics.md)
+[Table of Contents](README.md) __________ [Basics →](Basics.md)
 
 # Table of Contents
 
