@@ -3,8 +3,13 @@
 
 # Variables II: Advanced Information
 
-In [Variables I](Variables_I.md) we learned that variables are used to store values.<br>
-Now we are going to go indepth in this topic.<br>
+In [Variables I](Variables_I.md) we learned that variables are used to store values. Now
+ we are going to go indepth in this topic. In C, there are only 3 types of values.
 
+| Data Type | Explanation | Value | Example |
+| --------- | ----------- | ----- | ------- |
+| `int` | Integer numbers, numbers without the decimal point. | `23, 47, 59` | `int age = 20; // age` |
+| `float` | Decimal numbers like 𝜋, they contain a decimal point. | `12.23, 3.1415, 0.005` | `float height = 165; // cm` |
+| `char` | They contains either a single letter (UPPERCASE or lowercase), a number or, a symbol | `'a', 'B', '5', '#'` | `float height = 165; // cm` |
 
 
