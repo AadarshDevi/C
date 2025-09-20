@@ -21,4 +21,4 @@ When looking at the table we can see that there are no booleans and strings. It 
 
 When we create variables, we give it a name, same like in math. The names of the variables are used to identify it and it's use case.
 A number that has a value that relates to age would be called age. Vice versa, when the variable stores an age, we name it age so we
-can recognized it. These variable names are called **___Identifiers___**.
+can recognized it. These variable names are called **_Identifiers_**.
