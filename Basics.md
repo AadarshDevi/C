@@ -1,5 +1,5 @@
 
-[<<< <b>Table of Contents</b>](README.md)
+[<b><<< Table of Contents</b>](README.md)
 
 # Basics
 
