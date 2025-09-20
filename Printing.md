@@ -1,3 +1,1 @@
-[← Previous Page](previouspage.md) &nmsp
-[Table of Contents](nextpage.md)
-[Next Page →](nextpage.md)
+[← Previous Page](previouspage.md) --- [Table of Contents](nextpage.md) --- [Next Page →](nextpage.md)
