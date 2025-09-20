@@ -5,6 +5,7 @@
 2. [Comments](Comments.md)
 3. [Printing to Console I](Printing_I.md)
 4. [Variables](Variables_I.md)
+3. [Printing to Console II: Output with Variables](Printing_II.md)
 5. Type Conversion]()
 6. Constants and Operations]()
 7. Booleans]()
