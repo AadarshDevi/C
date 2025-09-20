@@ -1,5 +1,5 @@
 
-<b>Table of Contents</b>
+[<<< <b>Table of Contents</b>](table_of_contents.md)
 
 # Basics
 
