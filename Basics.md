@@ -60,10 +60,7 @@ char let = 'A';
 char let2 = 'D';
 ```
 
-Here the values represent different types of variables. These types are called Data Types.
+Here the values represent different types of variables. These types are called Data Types.<br>
+from the examples there is a few information<br>
 
-In `int number = 215;`:<br>
-1. `int`: datatype of the value (learn in later)
-2. `number`: the name of the variable 
-3. `=`: the assignment operator (learn in later)
-4. `215`: the value being assigned to the variable
+`int, float, char` are called Data Types and `number, num2, let, let2` are called identifiers, they tell use what the variable is created for.
