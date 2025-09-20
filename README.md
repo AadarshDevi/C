@@ -1,7 +1,8 @@
 <div style="width: 100%;">
-  <a href="#table-of-contents" style="float: left;">← Table of Contents</a>
-  <a href="nextpage.md" style="float: right;">Next Page →</a>
+  <a href="#toc" style="float: left;">← Table of Contents</a>
+  <a href="next.md" style="float: right;">Next Page →</a>
 </div>
+
 
 
 
