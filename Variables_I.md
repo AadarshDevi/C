@@ -1,4 +1,6 @@
 
+[⟵ Printing to Console I](Printing_I.md) __________ [Table of Contents](README.mb) __________ [Printing to Console II ⟶](Printing_II.md)
+
 # Variables I
 
 <p>
