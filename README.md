@@ -1,6 +1,4 @@
 
-[Table of Contents](README.md) __________ [Basics →](Basics.md)
-
 # Table of Contents
 
 1. Basics: [Basics.md](Basics.md)
