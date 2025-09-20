@@ -22,3 +22,25 @@ When looking at the table we can see that there are no booleans and strings. It 
 When we create variables, we give it a name, same like in math. The names of the variables are used to identify it and it's use case.
 A number that has a value that relates to age would be called age. Vice versa, when the variable stores an age, we name it age so we
 can recognized it. These variable names are called **_Identifiers_**.
+
+Let's see a few examples of Good Identifiers:
+```C
+int heightInCm = 170;
+char letterGrade = 'B';
+char heading1 = '#';
+double winningPercentage = 127.572;
+```
+1. We can understand the heightInCm means that the value is the height of a person.
+2. letterGrade explains that it is a letter grade with a value of B
+3. heading1 is a char with value #. (Heading 1 in Markdown is represented with #)
+4. winningPercentage tells that the chance of winning is %127.572.
+
+Now the code below shows Bad Identifiers:
+```C
+int value1 = 27;
+float value2 = 27.452;
+double value3 = 39.9362020736;
+char value4 = 'Z';
+```
+
+With those values about, we can not tell what the purpose of these variables are. What is value1 for? age? We won't know since it is not self-explanatory.
