@@ -1,5 +1,5 @@
 
-[⟵ Previous](previous.md) __________ [Table of Contents](README.mb) __________ [Next ⟶](next.md)
+[⟵ Basics](Basics.md) __________ [Table of Contents](README.mb) __________ [Printing to Console I ⟶](Printing_I.md)
 
 # Comments
 
