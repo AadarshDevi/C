@@ -18,8 +18,8 @@ it will first check for this. Without this, the exe file cannot fun.<br>
 
 # Printing to Console
 
-To print anything in C, we use the same line of code: `printf("text...", vars...)`
+To print anything in C, we use the same line of code: `printf("text")`. below we are printing "Hello World, I am coding in C!".
 
 ```c
-printf("And it is awesome!");
+printf("Hello World, I am coding in C!");
 ```
