@@ -1,5 +1,5 @@
 
-[Table of Contents](table_of_contents.md) __________ [Printing to Output →](Printing.md)
+[Table of Contents](README.md) __________ [Printing to Output →](Printing.md)
 
 # Basics
 
