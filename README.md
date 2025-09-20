@@ -1,10 +1,11 @@
 
 # Table of Contents
 
-1. [Basics.md](Basics.md)
-2. [Comments](Comments.md)
-3. [Printing to Console I](Printing_I.md)
-4. [Variables I](Variables_I.md)
+1. [Home](Home.md)
+2. [Basics.md](Basics.md)
+3. [Comments](Comments.md)
+4. [Printing to Console I](Printing_I.md)
+5. [Variables I](Variables_I.md)
 3. [Printing to Console II: Output with Variables](Printing_II.md)
 4. [Variables II](Variables_II.md)
 5. Type Conversion]()
