@@ -1,7 +1,5 @@
-<div style="width: 200%;">
-  <a href="#toc" style="float: left;"><b><<< Table of Contents<b></a><br><br>
-  <a href="Printing.md" style="float: right;"><b>Printing to Console >>></b></a>
-</div>
+
+[Table of Contents](table_of_contents.md) __________ [Printing to Output →](Printing.md)
 
 # Basics
 
