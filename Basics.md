@@ -1,7 +1,7 @@
 
 [Table of Contents](README.md) __________ [Printing to Output →](Printing.md)
 
-# Basics
+# Basic C Program Structure
 
 This is the standard default C program:
 ```c
@@ -22,4 +22,17 @@ To print anything in C, we use the same line of code: `printf("text")`. below we
 
 ```c
 printf("Hello World, I am coding in C!");
+```
+
+# Comments
+
+We sometimes need to write text that is not code. During this time, we use comments.<br>\
+Comments are text that are ignored by the C compiler.
+```c
+  // this is a single line comment
+  /*
+      this is a
+      multi-line
+      comment
+  */
 ```
