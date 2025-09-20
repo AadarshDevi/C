@@ -1,5 +1,5 @@
 
-[⟵ Variables I](Variables_I.md) __________ [Table of Contents](README.mb) __________ [Next ⟶](Variables_II.md)
+[⟵ Variables I](Variables_I.md) __________ [Table of Contents](README.mb) __________ [Variables II ⟶](Variables_II.md)
 
 # Printing to Console II: Output with Variables
 
