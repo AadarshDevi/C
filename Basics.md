@@ -32,7 +32,8 @@ printf("Hello World, I am coding in C!");
   for the people who are going to inherit it.
 </p>
 <p>Comments are text that are ignored by the C compiler.</p>
-```c
+
+```C
   // this is a single line comment
   /*
       this is a
