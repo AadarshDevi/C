@@ -1,5 +1,6 @@
 
 <p float="left">
+  <a href="#table-of-contents">← Table of Contents</a>
   <a href="nextpage.md" style="float: right;">Next Page →</a>
 </p>
 
