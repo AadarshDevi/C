@@ -12,12 +12,12 @@ We are going to use Format Specifiers. Format Specifiers are special characters 
 values to the console. <br><br>
 Below are some variables and their Format Specifiers.
 
-| Data Type | Format Specifiers |
-| --------- | ----------------- |
-| `int` | `printf("number: %d", num);` |
-| `float` | `printf("precise number: %f", pi);` |
-| `double` | `printf("really precise number: %lf", pi);` |
-| `char` | `printf("letter: %c", letter);` |
+| Data Type | Format Specifiers | Example |
+| --------- | ----------------- | ------- |
+| `int` | `"%d"` | `printf("number: %d", num);` |
+| `float` | `"%f"` | `printf("precise number: %f", pi);` |
+| `double` | `"%lf"` | `printf("really precise number: %lf", pi);` |
+| `char` | `"%c"` | `printf("letter: %c", letter);` |
 
 
 ```C
