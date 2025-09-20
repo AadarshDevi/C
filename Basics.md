@@ -1,3 +1,6 @@
+
+<b>Table of Contents</b>
+
 # Basics
 
 default C program:
