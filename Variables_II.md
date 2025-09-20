@@ -6,7 +6,7 @@
 ## Data Types
 
 In [Variables I](Variables_I.md) we learned that variables are used to store values. Now
- we are going to go indepth in this topic. The 4 datatypes shown below are called **___Primitive Data Types___**.
+ we are going to go indepth in this topic. The 4 datatypes shown below are called **_Primitive Data Types_**.
 
 | Data Type | Data Type Name | Explanation | Value | Example |
 | --------- | -------------- | ----------- | ----- | ------- |
