@@ -12,9 +12,8 @@ int main()
 }
 ```
 
-This `#include <stdio.h>` is used for printing values to the console and also getting user input.<br>
-The `int main()` is the starting point for the C program. When a C program is converted into an executable,
-it will first check for this. Without this, the exe file cannot fun.<br>
-In the code `return 0` tells the computer that the program ran successfully.
-
+1. This `#include <stdio.h>` is used for printing values to the console and also getting user input.<br>
+2. The `int main()` is the starting point for the C program. When a C program is converted into an executable,
+3. It will first check for this. Without this, the exe file cannot fun.<br>
+4. In the code `return 0` tells the computer that the program ran successfully.
 1. Every statement, a block of code, always ends with a `;`. it means the end of a command/instruction.
