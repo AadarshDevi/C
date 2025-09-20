@@ -1,11 +1,5 @@
-<div style="width: 200%;">
-<!--   <a href="#toc" style="float: left;"><b><<< Table of Contents<b></a><br><br> -->
-  <a href="" style="float: right;"><b>Basics >>></b></a>
-</div>
 
-[Table of Contents](nextpage.md) __________ [Basics →](Basics.md)
-
-[← Basics](Basics.md.md) __________ [Table of Contents](nextpage.md) __________ [Next Page →](nextpage.md)
+[Table of Contents](table_of_contents.md) __________ [Basics →](Basics.md)
 
 # Table of Contents
 
