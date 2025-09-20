@@ -1,1 +1,1 @@
-[← Previous Page](previouspage.md) --- [Table of Contents](nextpage.md) --- [Next Page →](nextpage.md)
+[← Previous Page](previouspage.md) _____ [Table of Contents](nextpage.md) _____ [Next Page →](nextpage.md)
