@@ -18,6 +18,6 @@ Below are some variables and their Format Specifiers.
 
 ```C
     printf("\n\nInteger Number: %d", number);
-    printf("\nFloating Number: %f", num2);
+    printf("\nFloating Point Number: %f", num2);
     printf("\nCharacter: %c", let);
 ```
