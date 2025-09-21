@@ -1,7 +1,7 @@
 
 [⟵ Printing to Console II](Printing_II.md) __________ [Table of Contents](README.mb) __________ [Next ⟶](next.md)
 
-# Variables II: Advanced Information
+# Variables II
 
 ## Data Types
 
@@ -44,3 +44,13 @@ char value4 = 'Z';
 ```
 
 With those values about, we can not tell what the purpose of these variables are. What is value1 for? age? We won't know since it is not self-explanatory.
+
+## Memory
+
+Since we are working with C, memeory management is important. The variables have a limited space in memeory.
+| Data type | Bytes |
+| --------- | ----- |
+| `int` |  |
+| `float` | 4 |
+| `double` | 8 |
+| `char` |  |
